@@ -1,5 +1,8 @@
 /*
  * Referensi :
+ *	- Color Code :
+ *		https://g.co/kgs/APcwQw
+ *
  * 	- Convert Decimal -> Hex :
  * 		  https://www.rapidtables.com/convert/number/decimal-to-hex.html
  *
